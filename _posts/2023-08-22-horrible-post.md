@@ -1,7 +1,9 @@
+---
 layout: post
 title: Creating Posts Using JekyllEx
 tags: [personal, android]
 comments: false
+---
 
 ### Creating posts with JekyllEx
 
