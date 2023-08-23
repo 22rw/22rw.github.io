@@ -23,6 +23,7 @@ email: anton.knappe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wow UwU this is such a cool description! So full of information & valuable content...
   Oh boy - i bet everyone reads this :/
+  Speeeeeenden, wir brauchen [Spenden](https:paypal.me/florianbrockes)!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  22rw
