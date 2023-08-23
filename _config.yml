@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: [Spenden](https:paypal.me/florianbrockes)
+title: https:paypal.me/florianbrockes
 email: anton.knappe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Wow UwU this is such a cool description! So full of information & valuable content...
