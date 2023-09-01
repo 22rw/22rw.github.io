@@ -18,12 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: https:paypal.me/florianbrockes
+title: "1. Teil: Die Gefährten"
 email: anton.knappe@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Wow UwU this is such a cool description! So full of information & valuable content...
-  Oh boy - i bet everyone reads this :/
-  Speeeeeenden, wir brauchen [Spenden](https:paypal.me/florianbrockes)!
+  Jenseits der Grenzen unserer Vorstellungskraft, in einem Land, so mysteriös, dass es nur in den Träumen der verwegensten Denker existieren kann,
+  eröffnet sich das atemberaubende Reich Neuseeland. Hier, wo majestätische Gipfel den Himmel küssen und smaragdgrüne Wälder in geheimnisvoller Stille flüstern, beginnt die Reise unserer beiden Abenteurer.
+
+  Tauche ein in die Mythen der Maori, und begleite die beiden Helden unserer Geschichte - Florian & Anton auf ihrer abenteuerlichen Suche nach unermesslichen Reichtümern und dem nächsten Wlan Hotspot.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  22rw
