@@ -31,7 +31,7 @@ github_username:  22rw
 instagram_username: nz.mit.flanton
 
 # Build settings
-theme: minima
+remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
